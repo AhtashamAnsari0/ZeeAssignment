@@ -1,0 +1,6 @@
+framework module Pods_ZeeAssignment {
+  umbrella header "Pods-ZeeAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

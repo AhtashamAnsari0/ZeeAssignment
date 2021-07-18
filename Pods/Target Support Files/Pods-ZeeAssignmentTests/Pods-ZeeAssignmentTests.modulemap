@@ -1,0 +1,6 @@
+framework module Pods_ZeeAssignmentTests {
+  umbrella header "Pods-ZeeAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
